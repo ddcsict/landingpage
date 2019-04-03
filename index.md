@@ -1,3 +1,3 @@
 # DDCS ICT
 
-[Adventist Schools Australia Technology Services](helpdesk.adventist.edu.au)
+[Adventist Schools Australia Technology Services](https://helpdesk.adventist.edu.au)
